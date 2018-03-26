@@ -1,0 +1,9 @@
+c:\users\mtcstudent\source\repos\WindowsFormsApp1\FourTwo Tutorial\bin\Debug\FourTwo Tutorial.exe.config
+c:\users\mtcstudent\source\repos\WindowsFormsApp1\FourTwo Tutorial\bin\Debug\FourTwo Tutorial.exe
+c:\users\mtcstudent\source\repos\WindowsFormsApp1\FourTwo Tutorial\bin\Debug\FourTwo Tutorial.pdb
+c:\users\mtcstudent\source\repos\WindowsFormsApp1\FourTwo Tutorial\obj\Debug\FourTwo_Tutorial.Form1.resources
+c:\users\mtcstudent\source\repos\WindowsFormsApp1\FourTwo Tutorial\obj\Debug\FourTwo_Tutorial.Properties.Resources.resources
+c:\users\mtcstudent\source\repos\WindowsFormsApp1\FourTwo Tutorial\obj\Debug\FourTwo Tutorial.csproj.GenerateResource.Cache
+c:\users\mtcstudent\source\repos\WindowsFormsApp1\FourTwo Tutorial\obj\Debug\FourTwo Tutorial.csproj.CoreCompileInputs.cache
+c:\users\mtcstudent\source\repos\WindowsFormsApp1\FourTwo Tutorial\obj\Debug\FourTwo Tutorial.exe
+c:\users\mtcstudent\source\repos\WindowsFormsApp1\FourTwo Tutorial\obj\Debug\FourTwo Tutorial.pdb

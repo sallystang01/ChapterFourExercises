@@ -1,0 +1,10 @@
+c:\users\mtcstudent\source\repos\WindowsFormsApp1\FourFour Tutorial\bin\Debug\FourFour Tutorial.exe.config
+c:\users\mtcstudent\source\repos\WindowsFormsApp1\FourFour Tutorial\bin\Debug\FourFour Tutorial.exe
+c:\users\mtcstudent\source\repos\WindowsFormsApp1\FourFour Tutorial\bin\Debug\FourFour Tutorial.pdb
+c:\users\mtcstudent\source\repos\WindowsFormsApp1\FourFour Tutorial\obj\Debug\FourFour Tutorial.csprojResolveAssemblyReference.cache
+c:\users\mtcstudent\source\repos\WindowsFormsApp1\FourFour Tutorial\obj\Debug\FourFour_Tutorial.Form1.resources
+c:\users\mtcstudent\source\repos\WindowsFormsApp1\FourFour Tutorial\obj\Debug\FourFour_Tutorial.Properties.Resources.resources
+c:\users\mtcstudent\source\repos\WindowsFormsApp1\FourFour Tutorial\obj\Debug\FourFour Tutorial.csproj.GenerateResource.Cache
+c:\users\mtcstudent\source\repos\WindowsFormsApp1\FourFour Tutorial\obj\Debug\FourFour Tutorial.csproj.CoreCompileInputs.cache
+c:\users\mtcstudent\source\repos\WindowsFormsApp1\FourFour Tutorial\obj\Debug\FourFour Tutorial.exe
+c:\users\mtcstudent\source\repos\WindowsFormsApp1\FourFour Tutorial\obj\Debug\FourFour Tutorial.pdb
